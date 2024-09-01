@@ -7,5 +7,7 @@ int main(){
     printf("\nHello, [%s]!",name);
     
     printf("Pushed by Bhian");
+    int num = 12;
+    printf("\nPushed by James(I also checked Bhain's printf) just random number %d",num);
     
 }
