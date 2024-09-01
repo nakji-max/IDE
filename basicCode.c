@@ -6,4 +6,6 @@ int main(){
     scanf("%s",name);
     printf("\nHello, [%s]!",name);
     
+    printf("Pushed by Bhian");
+    
 }
